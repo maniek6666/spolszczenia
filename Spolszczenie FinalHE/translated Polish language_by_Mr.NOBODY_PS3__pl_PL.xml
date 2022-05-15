@@ -158,10 +158,10 @@ Wprowadź ten kod PIN na PS Vita: %2</translation>
         <translation type="vanished">Pobieranie klucza z cma.henkaku.xyz</translation>
     </message>
     <message>
-        <source>Pobrano klucz.
-Kliknij przycisk, aby ROZPOCZĄĆ!</source>
-        <translation type="vanished">Recuperada clave de copia de seguridad.
-¡Pulsa el botón para EMPEZAR!</translation>
+        <source>Fetched backup key.
+Click button to START!</source>
+        <translation type="vanished">Pobrano klucz.
+Kliknij przycisk, aby ROZPOCZĄĆ!</translation>
     </message>
     <message>
         <location filename="../package.cc" line="510"/>
